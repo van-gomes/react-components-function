@@ -19,7 +19,8 @@
     box-sizing: border-box;
 }
 
-.campo-color input {
+/* BEM (Block-Element-Modifier) */
+.campo--color input {
     height: 40px;
     padding: 5px 24px;
 }
